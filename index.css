@@ -39,6 +39,7 @@ ul{
     flex-direction: row;
     align-items: center;
     justify-items: center;
+    gap: 5px;
 }
 .about{
      display: flex;
